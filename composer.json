@@ -1,0 +1,15 @@
+{
+    "name": "pedumas/app",
+    "autoload": {
+        "psr-4": {
+            "Pedumas\\App\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Rizkaparhansya",
+            "email": "rizkaparhansyah4@gmail.com"
+        }
+    ],
+    "require": {}
+}
